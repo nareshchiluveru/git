@@ -18,5 +18,6 @@ public class Address {
 	private String street;
 	private String city;
 	private Integer pincode;
+	// added some comments
 	
 }
